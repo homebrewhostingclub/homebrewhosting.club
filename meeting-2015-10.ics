@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+X-WR-CALNAME:Homebrew Hosting Club
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:20151123T000000Z-c6c2@homebrewhosting.club
+DTSTAMP:20150910T150848Z
+DTSTART:20151123T000000Z
+DTEND:20151123T030000Z
+SUMMARY:Toronto Homebrew Hosting Club
+LOCATION:HackLab.TO\n1266 Queen St. West Suite Suite 6\nToronto ON  M6K 1L3\nCanada
+DESCRIPTION:A meetup of people in the Greater Toronto Area passionate about self hosting\, in the same structure as the Homebrew Computer Club meetings.
+ORGANIZER;CN="Homebrew Hosting Club":mailto:hi@homebrewhosting.club
+URL;VALUE=URI:https://homebrewhosting.club/
+END:VEVENT
+END:VCALENDAR

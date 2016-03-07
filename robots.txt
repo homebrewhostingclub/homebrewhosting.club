@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /meeting-2015-10.ics
+Disallow: /meeting-2015-10.html
